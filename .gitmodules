@@ -1,0 +1,8 @@
+[submodule "openssl"]
+	path = cpp/openssl
+	url = ../openssl-android.git
+    branch = icsopenvpn
+[submodule "openvpn"]
+	path = cpp/openvpn
+    url = ../openvpn-android.git    
+    branch = pia_android/2.4.5
