@@ -1,7 +1,6 @@
 [submodule "openssl"]
 	path = cpp/openssl
-	url = ../openssl-android.git
-	branch = icsopenvpn
+	url = git@github.com:schwabe/platform_external_openssl.git
 [submodule "openvpn"]
 	path = cpp/openvpn
 	url = ../android-openvpn  
